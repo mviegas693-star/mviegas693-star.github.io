@@ -2,11 +2,12 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<title>Windows Turbo | Projeto Educacional</title>
+
+<title>Windows Turbo | Projeto Educacional - mviegas693-star</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Windows Turbo é um projeto educacional que ensina a otimizar o Windows 10 e 11 de forma segura, simples e gratuita.">
-<meta name="author" content="Windows Turbo">
+<meta name="description" content="Windows Turbo é um projeto educacional criado por mviegas693-star para ensinar otimização segura do Windows 10 e 11.">
+<meta name="author" content="mviegas693-star">
 
 <style>
 :root {
@@ -17,10 +18,14 @@
     --cinza: #94a3b8;
 }
 
-* { box-sizing: border-box; margin: 0; padding: 0 }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 body {
-    font-family: Segoe UI, Arial, sans-serif;
+    font-family: "Segoe UI", Arial, sans-serif;
     background: var(--fundo);
     color: var(--texto);
     line-height: 1.6;
@@ -124,7 +129,7 @@ h2 {
 
 .cta p {
     color: #dbeafe;
-    margin: 15px 0;
+    margin-top: 10px;
 }
 
 footer {
@@ -142,13 +147,13 @@ footer {
 
 <header>
 <h1>Windows Turbo</h1>
-<p>Projeto educacional para otimizar o Windows com segurança</p>
+<p>Projeto educacional criado por mviegas693-star</p>
 </header>
 
 <nav>
 <a href="#sobre">Sobre</a>
 <a href="#guias">Guias</a>
-<a href="#boas-praticas">Boas Práticas</a>
+<a href="#boas">Boas Práticas</a>
 <a href="#youtube">YouTube</a>
 <a href="#contato">Contato</a>
 </nav>
@@ -156,9 +161,9 @@ footer {
 <section id="sobre">
 <h2>Sobre o Projeto</h2>
 <p>
-O <strong>Windows Turbo</strong> é um projeto educacional independente criado para
-ensinar usuários a otimizar o Windows 10 e 11 de forma responsável.
-Todo o conteúdo é gratuito, didático e focado em boas práticas.
+O <strong>Windows Turbo</strong> é um projeto educacional independente criado por
+<strong>mviegas693-star</strong> com o objetivo de ensinar usuários a otimizar o Windows 10 e 11
+de forma segura, consciente e responsável.
 </p>
 </section>
 
@@ -166,11 +171,11 @@ Todo o conteúdo é gratuito, didático e focado em boas práticas.
 <h2>Guias de Otimização</h2>
 
 <div class="guia">
-<h3>🔹 Guia Básico (Iniciantes)</h3>
+<h3>🔹 Guia Básico</h3>
 <ul>
 <li>Desativar programas desnecessários na inicialização</li>
 <li>Limpeza de arquivos temporários</li>
-<li>Atualizações essenciais do sistema</li>
+<li>Atualizações importantes do sistema</li>
 </ul>
 </div>
 
@@ -179,7 +184,7 @@ Todo o conteúdo é gratuito, didático e focado em boas práticas.
 <ul>
 <li>Ajustes de desempenho do Windows</li>
 <li>Configuração correta de energia</li>
-<li>Redução de consumo de RAM</li>
+<li>Redução do uso de memória RAM</li>
 </ul>
 </div>
 
@@ -188,25 +193,28 @@ Todo o conteúdo é gratuito, didático e focado em boas práticas.
 <ul>
 <li>Serviços do Windows explicados</li>
 <li>Boas práticas para SSD e HD</li>
-<li>Otimização sem comprometer segurança</li>
+<li>Otimização sem comprometer a segurança</li>
 </ul>
 </div>
 </section>
 
-<section id="boas-praticas">
+<section id="boas">
 <h2>Boas Práticas Importantes</h2>
+
 <div class="cards">
 <div class="card">
 <h3>✔ Segurança</h3>
-<p>Nunca utilizamos scripts perigosos ou alterações irreversíveis.</p>
+<p>Não utilizamos scripts perigosos ou alterações irreversíveis.</p>
 </div>
-<div class="card">
-<h3>✔ Clareza</h3>
-<p>Conteúdo explicado de forma simples e acessível.</p>
-</div>
+
 <div class="card">
 <h3>✔ Educação</h3>
-<p>O foco é ensinar, não prometer milagres.</p>
+<p>O foco é ensinar o funcionamento correto do sistema.</p>
+</div>
+
+<div class="card">
+<h3>✔ Transparência</h3>
+<p>Sem promessas milagrosas ou enganosas.</p>
 </div>
 </div>
 </section>
@@ -215,30 +223,31 @@ Todo o conteúdo é gratuito, didático e focado em boas práticas.
 <h2>Canal no YouTube</h2>
 <p>
 Este site é o <strong>site oficial do projeto educacional do canal no YouTube</strong>.
-Todos os vídeos complementam os guias disponíveis aqui.
 </p>
 
 <p>
 📌 <strong>Link do site para a descrição do canal:</strong><br>
-<em>https://SEUNOME.github.io</em>
+<a href="https://mviegas693-star.github.io" target="_blank" style="color:#60a5fa">
+https://mviegas693-star.github.io
+</a>
 </p>
 </section>
 
 <div class="cta">
 <h2>Aprenda a otimizar seu Windows com consciência</h2>
-<p>Conhecimento real, gratuito e seguro.</p>
+<p>Conteúdo gratuito, educacional e seguro.</p>
 </div>
 
 <section id="contato">
 <h2>Contato</h2>
 <p>
 📧 Email: contato@windowsturbo.com<br>
-📘 Projeto educacional independente
+Projeto educacional independente
 </p>
 </section>
 
 <footer>
-© 2025 Windows Turbo — Projeto educacional. Todos os direitos reservados.
+© 2025 Windows Turbo — Projeto educacional criado por mviegas693-star.
 </footer>
 
 </body>
